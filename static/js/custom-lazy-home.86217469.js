@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkvue2_admin"]=globalThis["webpackChunkvue2_admin"]||[]).push([[2],{34998:(l,n,u)=>{u.r(n),u.d(n,{default:()=>i});var a=function(){var l=this,n=l._self._c;return n("CPanel",[n("h1",[l._v("自定义路由懒加载")]),n("h5",[l._v("请先清空缓存，并调整网速，从其他页面进入此页面，观察懒加载过程")])])},e=[],s=u(43736),h={},t=(0,s.Z)(h,a,e,!1,null,null,null);const i=t.exports}}]);

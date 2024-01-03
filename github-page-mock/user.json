@@ -1,0 +1,14 @@
+{
+  "code": 200,
+  "msg": "用户不存在...",
+  "data": {
+    "name": "ihengshuai",
+    "age": 10,
+    "sex": 1,
+    "income": null,
+    "address": {
+      "country": "中国",
+      "city": "北京"
+    }
+  }
+}

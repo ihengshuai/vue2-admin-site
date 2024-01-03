@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkvue2_admin"]=globalThis["webpackChunkvue2_admin"]||[]).push([[640],{96672:(l,n,u)=>{u.r(n),u.d(n,{default:()=>r});var a=function(){var l=this,n=l._self._c;return n("CPanel",[l._v("自定义加载布局")])},e=[],s=u(43736),t={},i=(0,s.Z)(t,a,e,!1,null,null,null);const r=i.exports}}]);
